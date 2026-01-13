@@ -1,2 +1,2 @@
 # karost.github.io
-Github Home page
+Github Home page.
